@@ -1,6 +1,6 @@
 <div align="center">
 
-# 嗨，我是 Rosy 🐋 · Hi, I'm Rosy
+# 嗨，我是 Rosy 🌹 · Hi, I'm Rosy
 
 **把麻烦事做成一个按钮。**  
 **Turning annoying chores into a single button.**
